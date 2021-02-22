@@ -1,3 +1,8 @@
+<br>
+<img src="https://github.com/r-e-d-ant/currency-converter/blob/main/Screen_Shot.png"/>
+<br>
+
+
 ### Hi there 👋
 
 
