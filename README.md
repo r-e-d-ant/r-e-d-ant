@@ -6,9 +6,9 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on Flask/-->
-- 🌱 I’m currently learning Django
+<!-- - 🌱 I’m currently learning Django -->
 - 👯 I’m looking to collaborate on every web apps development
-- 🤔 I’m looking for help with JavaScript
+<!-- - 🤔 I’m looking for help with JavaScript -->
 - 💬  Ask me about Python, Flask,...
 - 📫  How to reach me:
   * email: 02redant02@gmail.com
