@@ -7,8 +7,8 @@
 
 <!--- 🔭 I’m currently working on Flask/-->
 <!-- - 🌱 I’m currently learning Django -->
-- 👯 I’m looking to collaborate on every web apps development
 <!-- - 🤔 I’m looking for help with JavaScript -->
+- 👯 I’m looking to collaborate on every web apps development
 - 💬  Ask me about Python, Flask,...
 - 📫  How to reach me:
   * email: 02redant02@gmail.com
