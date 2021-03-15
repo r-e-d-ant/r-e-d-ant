@@ -16,4 +16,6 @@
   * <a href="https://t.me/r_e_d_ant">telegram</a>
 - Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant)](https://github.com/r-e-d-ant/github-readme-stats)
 
+![Thierry Mugisha's github stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant)
