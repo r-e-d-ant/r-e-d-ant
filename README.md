@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-# <a href="https://distracted-yalow-1c7bd5.netlify.app/">I m Thierry Mugisha</a>
+# <a href="https://distracted-yalow-1c7bd5.netlify.app/">I m Thierry Bari</a>
 
 <!--- 🔭  I’m currently working on Flask/-->
 <!--- 🌱 I’m currently learning Django -->
