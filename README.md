@@ -20,3 +20,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
 
 ![Thierry Mugisha's github stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
+
+[![Thierry Mugisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r-e-d-ant)](https://github.com/r-e-d-ant/github-readme-stats)
