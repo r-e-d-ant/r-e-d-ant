@@ -17,8 +17,10 @@
    * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a><br>
    * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
 
-![Thierry Mugisha's github stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
-
-[![Thierry Mugisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r-e-d-ant)](https://github.com/r-e-d-ant/github-readme-stats)
+<a href="https://github.com/r-e-d-ant/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/r-e-d-ant/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula" />
+</a>
