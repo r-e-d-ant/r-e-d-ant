@@ -17,6 +17,6 @@
    * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a><br>
    * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
 
-![Thierry Mugisha's github stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&hide=contribs,prs)
+![Thierry Mugisha's github stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
