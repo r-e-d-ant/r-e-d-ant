@@ -11,13 +11,11 @@
 <!--- 🤔 I’m looking for help with JavaScript -->
 <!--- 👯 I’m looking to collaborate on every web apps development --->
 <!--- 💬 Ask me about Python, Flask,... --->
- <br>
- <a href="https://distracted-yalow-1c7bd5.netlify.app/">Portfolio</a><br>
- <br>
- 📫 How to reach me:
-  * Email: 02redant02@gmail.com
-  * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a>
-  * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a>
+ 
+ 📫 How to reach me:<br>
+   * Email: 02redant02@gmail.com<br>
+   * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a><br>
+   * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant)
 
