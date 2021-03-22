@@ -12,10 +12,10 @@
 <!--- 👯 I’m looking to collaborate on every web apps development --->
 <!--- 💬 Ask me about Python, Flask,... --->
  📫 How to reach me:
-  * email: 02redant02@gmail.com
-  * <a href="https://twitter.com/r_e_d_ant">twitter</a>
-  * <a href="https://t.me/r_e_d_ant">telegram</a>
-- Pronouns: he/him
+  * Email: 02redant02@gmail.com
+  * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a>
+  * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a>
+<!--- Pronouns: he/him --->
 <!-- - ⚡ Fun fact: ... -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant)](https://github.com/r-e-d-ant/github-readme-stats)
 
