@@ -12,12 +12,7 @@
 <!--- 👯 I’m looking to collaborate on every web apps development --->
 <!--- 💬 Ask me about Python, Flask,... --->
  
- 📫 How to reach me:<br>
-   * Email: 02redant02@gmail.com<br>
-   * Twitter: <a href="https://twitter.com/r_e_d_ant">twitter</a><br>
-   * Telegram: <a href="https://t.me/r_e_d_ant">telegram</a><br>
-   * Portfolio: <a href="https://thierrymugisha.me/">Thierry Mugisha</a>
-
+ 📫 How to reach me: 02redant02@gmail.com<br>
 <a href="https://github.com/r-e-d-ant/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula" />
 </a>
