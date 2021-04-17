@@ -13,7 +13,8 @@
 <!--- 💬 Ask me about Python, Flask,... --->
  
  📫 How to reach me: 02redant02@gmail.com<br>
-<a href="https://github.com/r-e-d-ant/convoychat">
+
+<br><a href="https://github.com/r-e-d-ant/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/r-e-d-ant/github-readme-stats">
