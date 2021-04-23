@@ -15,4 +15,5 @@
 <br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=r-e-d-ant&count_private=true&theme=dracula&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&langs_count=5&theme=dracula)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&theme=dracula)]()
