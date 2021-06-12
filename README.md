@@ -27,9 +27,9 @@
 <br>
 
 <!--- 🔭  I’m currently working on Flask/-->
-<!--- 🌱 I’m currently learning Django -->
+<!--- 🌱 I’m currently learning JavaScript -->
 <!--- 🤔 I’m looking for help with JavaScript -->
-<!--- 👯 I’m looking to collaborate on every web apps development --->
+<!--- 👯 I’m looking to collaborate on every web app, website development --->
 <!--- 💬 Ask me about Python, Flask,... --->
 
 ![Thierry Mugisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
