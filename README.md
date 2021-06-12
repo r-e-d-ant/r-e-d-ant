@@ -9,6 +9,8 @@
 ### Hi there 👋
 # I m <a href="https://thierrymugisha.me/">Thierry Mugisha</a>
 
+Front End web developer. Skilled in solving problems with HTML, CSS, Javascript. | Flask. Focused on being a valuable part of any team I am on and believe in the team rising together.
+
 <a href="https://codepen.io/r_e_d_ant" target="_blank">
   <img src="https://github.com/r-e-d-ant/logos/blob/main/codepen.png" width="30px" height="30px"/>
 </a>
