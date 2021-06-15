@@ -32,5 +32,5 @@
 <!--- 👯 I’m looking to collaborate on every web app, website development --->
 <!--- 💬 Ask me about Python, Flask,... --->
 
-
-
+![Thierry Mugisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula&langs_count=8)](https://github.com/r-e-d-ant/github-readme-stats)
