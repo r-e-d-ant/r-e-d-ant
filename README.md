@@ -7,9 +7,9 @@
 
 
 ### Hi there 👋
-### I m <a href="https://thierrymugisha.me/"></a>
+### I m <a href="https://thierrymugisha.me/" target="_blank">Thierry Mugisha</a>
 
-Find here my live Front end Projects
+
 <a href="https://codepen.io/r_e_d_ant" target="_blank">
   <img src="https://github.com/r-e-d-ant/logos/blob/main/codepen.png" width="30px" height="30px"/>
 </a>
