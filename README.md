@@ -52,11 +52,3 @@ I'm a Web Developer, Welcome to my profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
 </a>
 <br/>
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61
-⭐️ From [@Amchuz](https://github.com/r-e-d-ant)
