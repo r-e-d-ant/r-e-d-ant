@@ -19,16 +19,19 @@ I'm a Web Developer, Welcome to my profile!
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind-css&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind-css)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuejs)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=Sublime-text)
@@ -44,5 +47,16 @@ I'm a Web Developer, Welcome to my profile!
 <!--- 👯 I’m looking to collaborate on every web app, website development --->
 <!--- 💬 Ask me about Python, Flask,... --->
 
-![Thierry Mugisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&show_icons=true&theme=dracula&langs_count=8)](https://github.com/r-e-d-ant/github-readme-stats)
+<a href="https://github.com/r-e-d-ant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
+</a>
+<br/>
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61
+⭐️ From [@Amchuz](https://github.com/r-e-d-ant)
