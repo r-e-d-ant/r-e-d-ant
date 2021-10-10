@@ -2,7 +2,7 @@
 <img src="https://github.com/r-e-d-ant/red-Ant-02/blob/main/1500x500.jpeg"/>
 <br>
 
-## Hi I'm <a href="https://thierrymugisha.me/" target="_blank">Thierry Mugisha</a> 👋
+## Hi I'm <a href="https://thierrymugisha.me/" target="_blank">Thierry Mugisha</a>. 👋
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-thierrymugisha.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me)](https://thierrymugisha.me)
 [![Gmail Badge](https://img.shields.io/badge/-thierry_mugisha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
