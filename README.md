@@ -16,14 +16,15 @@ I'm a Web Developer, Welcome to my profile!
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind-css)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
+- 🌐 &nbsp;
+  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
+  ![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat&logo=Vue)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind-css)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
@@ -38,8 +39,9 @@ I'm a Web Developer, Welcome to my profile!
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
+ 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br />
 
 <!--- 🔭  I’m currently working on Flask/-->
 <!--- 🌱 I’m currently learning JavaScript -->
@@ -52,3 +54,5 @@ I'm a Web Developer, Welcome to my profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
 </a>
 <br/>
+
+Have a good time ! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
