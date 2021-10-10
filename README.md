@@ -54,5 +54,5 @@ I'm a Web Developer, Welcome to my profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
 </a>
 <br/>
-
-Have a good time ! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# ----
+## Have a good time ! <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
