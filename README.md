@@ -30,6 +30,7 @@ I'm a Web Developer, Welcome to my profile!
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🔧 &nbsp;
