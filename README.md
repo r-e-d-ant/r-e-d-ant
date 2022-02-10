@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@r_e_d_ant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/r_e_d_ant)](https://twitter.com/r_e_d_ant)
 [![Instagram Badge](https://img.shields.io/badge/-@r_e_d_ant-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/r_e_d_ant/)](https://www.instagram.com/r_e_d_ant/)
 
-I'm a Web Developer, Welcome to my profile!
+I'm a Web Developer & UI/UX Designer, Welcome to my profile!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
