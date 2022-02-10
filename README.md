@@ -2,7 +2,7 @@
 <br>
 
 ## Hi I'm <a href="https://thierrymugisha.me/" target="_blank">Thierry Mugisha</a>. <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-Welcome to my profile!
+Welcome to my profile! <h1>😁</h1>
 
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-thierrymugisha.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me)](https://thierrymugisha.me)
@@ -58,5 +58,3 @@ Welcome to my profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
 </a>
 <br/>
-
-<h1>😁</h1>
