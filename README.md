@@ -2,6 +2,8 @@
 <br>
 
 ## Hi I'm <a href="https://thierrymugisha.me/" target="_blank">Thierry Mugisha</a>. <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+Welcome to my profile!
+
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-thierrymugisha.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me)](https://thierrymugisha.me)
 [![Gmail Badge](https://img.shields.io/badge/-thierry_mugisha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
@@ -9,36 +11,38 @@
 [![Twitter Badge](https://img.shields.io/badge/-@r_e_d_ant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/r_e_d_ant)](https://twitter.com/r_e_d_ant)
 [![Instagram Badge](https://img.shields.io/badge/-@r_e_d_ant-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/r_e_d_ant/)](https://www.instagram.com/r_e_d_ant/)
 
-I'm a Web Developer & UI/UX Designer, Welcome to my profile!
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![Vue.JS](https://img.shields.io/badge/-Vue.JS-41B883?style=flat&logo=vue.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind-css)
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=Sublime-text)
+
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+- ⚙️ &nbsp;
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=Sublime-text)
+  
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
  
 <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
