@@ -5,7 +5,7 @@
 Welcome to my profile! <h1>😁</h1>
 
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
-[![Website Badge](https://img.shields.io/badge/-thierrymugisha.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me)](https://thierrymugisha.me)
+[![Website Badge](https://img.shields.io/badge/-thierrymugisha.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me)](https://thierrymugisha.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-thierry_mugisha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-thierry_mugisha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thierry-mugisha-web-developer/)](https://www.linkedin.com/in/thierry-mugisha-web-developer/)
 [![Twitter Badge](https://img.shields.io/badge/-@r_e_d_ant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/r_e_d_ant)](https://twitter.com/r_e_d_ant)
