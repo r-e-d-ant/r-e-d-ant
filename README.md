@@ -1,7 +1,7 @@
 <img src="https://github.com/r-e-d-ant/red-Ant-02/blob/main/1500x500.jpeg"/>
 <br>
 
-## Hi I'm <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a>. <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Hi I'm <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a>.
 Welcome to my profile! <h1>😁</h1>
 
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
