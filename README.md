@@ -15,7 +15,9 @@ Welcome to my profile! <h1>😁</h1>
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![ReactJs](https://img.shields.io/badge/-React-409bbd?style=flat&logo=react)
+  ![ReactJs](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -28,6 +30,7 @@ Welcome to my profile! <h1>😁</h1>
   
 - ⚙️ &nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -35,6 +38,8 @@ Welcome to my profile! <h1>😁</h1>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
