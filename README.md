@@ -59,8 +59,8 @@ Welcome to my profile! <h1>😁</h1>
 <!--- 👯 I’m looking to collaborate on every web app, website development --->
 <!--- 💬 Ask me about Python, Flask,... --->
 
-<a href="https://github.com/r-e-d-ant">
+<!-- <a href="https://github.com/r-e-d-ant">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-e-d-ant&count_private=true&theme=dracula&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-e-d-ant&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
-</a>
+</a> -->
 <br/>
