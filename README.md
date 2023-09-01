@@ -16,13 +16,13 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
 
 - 🌐 &nbsp;
   ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
