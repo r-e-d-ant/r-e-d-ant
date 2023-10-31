@@ -2,11 +2,10 @@
 <br>
 
 ## Hi I'm <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha a.k.a HG of the city</a>
-<img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png">
+<img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="50px">
 
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.netlify.app/)](https://thierrymugisha.netlify.app/)
-[![Resume Badge](https://img.shields.io/badge/-resume-gray?style=flat&logo=Google-Chrome&logoColor=white&link=[https://drive.google.com/file/d/1Agh1ZhBiux2YwPUDZmyJ7dbkLOMWXCSQ/view?usp=sharing]([https://drive.google.com/file/d/1Agh1ZhBiux2YwPUDZmyJ7dbkLOMWXCSQ/view?usp=sharing))](https://drive.google.com/file/d/1Agh1ZhBiux2YwPUDZmyJ7dbkLOMWXCSQ/view?usp=sharing](https://drive.google.com/file/d/1Agh1ZhBiux2YwPUDZmyJ7dbkLOMWXCSQ/view?usp=sharing))
 [![Gmail Badge](https://img.shields.io/badge/-thierry_mugisha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-thierry_mugisha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thierry-mugisha-web-developer/)](https://www.linkedin.com/in/thierry-mugisha-web-developer/)
 [![Twitter Badge](https://img.shields.io/badge/-@r_e_d_ant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/r_e_d_ant)](https://twitter.com/r_e_d_ant)
@@ -17,15 +16,16 @@
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![.NET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
 - 🌐 &nbsp;
-  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
+  ![ReactJs](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=ReactJs)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
