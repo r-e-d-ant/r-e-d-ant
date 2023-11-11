@@ -3,7 +3,8 @@
 
 Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a> a.k.a <a href="https://thierrymugisha.netlify.app/" target="_blank">HG of the city Old Thi</a> -- I do Computers
 <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px">
-
+<br/>
+<br/>
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.netlify.app/)](https://thierrymugisha.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-thierry_mugisha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
