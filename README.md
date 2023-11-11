@@ -1,8 +1,8 @@
 <img src="https://github.com/r-e-d-ant/red-Ant-02/blob/main/1500x500.jpeg"/>
 <br>
 
-# Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a> a.k.a <a href="https://thierrymugisha.netlify.app/" target="_blank">HG of the city Old Thi</a> -- I do Computers
-<img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="50px">
+Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a> a.k.a <a href="https://thierrymugisha.netlify.app/" target="_blank">HG of the city Old Thi</a> -- I do Computers
+<img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px">
 
 [![Codepen Badge](https://img.shields.io/badge/-@r_e_d_ant-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.netlify.app/)](https://thierrymugisha.netlify.app/)
