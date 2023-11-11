@@ -1,4 +1,10 @@
-<h3><i>Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a> a.k.a <a href="https://thierrymugisha.netlify.app/" target="_blank">HG of the city Old Thi</a> -- I do Computers</i><img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px"/></h3></br>
+<h3>
+  <i>
+    Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry Mugisha</a> a.k.a <a href="https://thierrymugisha.netlify.app/" target="_blank">HG of the city Old Thi</a> -- I do Computers
+  </i>
+  <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px"/>
+</h3>
+</br>
 <img src="https://github.com/r-e-d-ant/red-Ant-02/blob/main/1500x500.jpeg"/>
 <br>
 
