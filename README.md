@@ -13,7 +13,7 @@ Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thi
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@r_e_d_ant-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/r_e_d_ant/)](https://www.instagram.com/r_e_d_ant/) -->
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tools</h3>
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
