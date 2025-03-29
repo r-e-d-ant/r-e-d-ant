@@ -9,7 +9,7 @@
 <br>
 
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
-[![Website Badge](https://img.shields.io/badge/-Resume-17CDBC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/1lg65SB5-TikJmPUJjwRvw8j7-emaylGz/view?usp=sharing)](https://drive.google.com/file/d/1lg65SB5-TikJmPUJjwRvw8j7-emaylGz/view?usp=sharing)
+[![Website Badge](https://img.shields.io/badge/-Resume-17CDBC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/1vpRyFvwSzy82m4Fb2pQX_ID6-q2ne3s2/view?usp=sharing)](https://drive.google.com/file/d/1vpRyFvwSzy82m4Fb2pQX_ID6-q2ne3s2/view?usp=sharing)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me/)](https://thierrymugisha.me/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thierry-mugisha-web-developer/)](https://www.linkedin.com/in/thierry-mugisha-web-developer/)
