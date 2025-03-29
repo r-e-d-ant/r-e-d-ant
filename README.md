@@ -1,6 +1,6 @@
 <h3>
   <i>
-    Howdy! my name <a href="https://thierrymugisha.netlify.app/" target="_blank">Thierry</a> -- I do Computers
+    Howdy! I do Computers
   </i>
   <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px"/>
 </h3>
