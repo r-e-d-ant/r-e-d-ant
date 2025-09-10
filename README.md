@@ -2,7 +2,7 @@
   <i>
     Howdy! I do Computers
   </i>
-  <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="30px"/>
+  <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/nerd-face_1f913.png" width="15px"/>
 </h3>
 </br>
 <img src="https://github.com/r-e-d-ant/red-Ant-02/blob/main/1500x500.jpeg"/>
@@ -10,7 +10,7 @@
 
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/r_e_d_ant)](https://codepen.io/r_e_d_ant)
 <!--[![Website Badge](https://img.shields.io/badge/-Resume-17CDBC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/1vpRyFvwSzy82m4Fb2pQX_ID6-q2ne3s2/view?usp=sharing)](https://drive.google.com/file/d/1vpRyFvwSzy82m4Fb2pQX_ID6-q2ne3s2/view?usp=sharing) -->
-[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.me/)](https://thierrymugisha.me/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thierrymugisha.netlify.app/)](https://thierrymugisha.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mug.thierry.l@gmail.com)](mailto:mug.thierry.l@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thierry-mugisha-web-developer/)](https://www.linkedin.com/in/thierry-mugisha-web-developer/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/r_e_d_ant)](https://twitter.com/r_e_d_ant) -->
@@ -20,7 +20,7 @@
 <h3> 🛠 &nbsp;My Tools</h3>
 
 - 💻 &nbsp;
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![.NET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
